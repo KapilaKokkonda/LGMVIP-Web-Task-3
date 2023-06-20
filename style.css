@@ -140,7 +140,6 @@
     border-top: none;
     animation: fadeIn 2s;
     position: relative;
-    background-color: var(--bg-green-gray);
     color:black;
   }
   
