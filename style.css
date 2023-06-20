@@ -53,7 +53,7 @@
     width: 55%;
     height: calc(100vh - 70px);
     overflow: scroll;
-    background-color: white;
+    background-color: black;
   }
   
   .enroll-heading {
@@ -141,6 +141,7 @@
     animation: fadeIn 2s;
     position: relative;
     color:black;
+    background-color: var(--bg-green-gray);
   }
   
   .userDeleteBtn {
