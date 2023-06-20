@@ -141,7 +141,6 @@
     animation: fadeIn 2s;
     position: relative;
     color:black;
-    background-color: var(--bg-green-gray);
   }
   
   .userDeleteBtn {
