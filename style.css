@@ -53,7 +53,7 @@
     width: 55%;
     height: calc(100vh - 70px);
     overflow: scroll;
-    background-color: black;
+    background-color: white;
   }
   
   .enroll-heading {
